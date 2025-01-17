@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <listaOdabranihIspita />
+    <listaPolozenihIspita />
+    <ImeIPrezime>Marko Markovič</ImeIPrezime>
+    <ImeRoditelja>Marko Markovič</ImeRoditelja>
+    <OpstinaRodjenja>Marko Markovič</OpstinaRodjenja>
+    <DatumRodjenja>5.5.2002.</DatumRodjenja>
+    <DrzavaRodjenja>Andora</DrzavaRodjenja>
+    <Jmbg>1008988790022</Jmbg>
+    <Drzavljanstvo>Marko Markovič</Drzavljanstvo>
+    <VrstaStudija>Master studije</VrstaStudija>
+    <Smer>Informacioni sistemi i tehnologije</Smer>
+    <BrojIndeksa>2001/2001</BrojIndeksa>
+    <DatumUpisa>19.08.2024.</DatumUpisa>
+    <GodinaStudija>1</GodinaStudija>
+  </Student>
+  <Student>
+    <listaOdabranihIspita>
+      <Ispit>
+        <Naziv>Ekonomija</Naziv>
+        <ESPB>6</ESPB>
+        <Godina>1</Godina>
+      </Ispit>
+    </listaOdabranihIspita>
+    <listaPolozenihIspita />
+    <ImeIPrezime>Jovan Novakov</ImeIPrezime>
+    <ImeRoditelja>Milorad Novakov</ImeRoditelja>
+    <OpstinaRodjenja>Užice</OpstinaRodjenja>
+    <DatumRodjenja>6.4.1999.</DatumRodjenja>
+    <DrzavaRodjenja>Srbija</DrzavaRodjenja>
+    <Jmbg>1008988790022</Jmbg>
+    <Drzavljanstvo>Srbin</Drzavljanstvo>
+    <VrstaStudija>Osnovne akademske studije</VrstaStudija>
+    <Smer>Informacioni sistemi i tehnologije</Smer>
+    <BrojIndeksa>2005/2005</BrojIndeksa>
+    <DatumUpisa>25.08.2024.</DatumUpisa>
+    <GodinaStudija>4</GodinaStudija>
+  </Student>
+  <Student>
+    <listaOdabranihIspita>
+      <Ispit>
+        <Naziv>Osnove industrijskog inženjerstva</Naziv>
+        <ESPB>6</ESPB>
+        <Godina>2</Godina>
+      </Ispit>
+      <Ispit>
+        <Naziv>Pravne osnove informacionih sistema</Naziv>
+        <ESPB>5</ESPB>
+        <Godina>3</Godina>
+      </Ispit>
+      <Ispit>
+        <Naziv>Baze podataka</Naziv>
+        <ESPB>6</ESPB>
+        <Godina>3</Godina>
+      </Ispit>
+    </listaOdabranihIspita>
+    <listaPolozenihIspita>
+      <PolozeniIspit>
+        <Ispit>
+          <Naziv>Proizvodni sistemi</Naziv>
+          <ESPB>6</ESPB>
+          <Godina>1</Godina>
+        </Ispit>
+        <Ocena>10</Ocena>
+        <DatumPolaganja>26.08.2024.</DatumPolaganja>
+      </PolozeniIspit>
+      <PolozeniIspit>
+        <Ispit>
+          <Naziv>Engleski jezik struke 1</Naziv>
+          <ESPB>5</ESPB>
+          <Godina>1</Godina>
+        </Ispit>
+        <Ocena>10</Ocena>
+        <DatumPolaganja>26.08.2024.</DatumPolaganja>
+      </PolozeniIspit>
+      <PolozeniIspit>
+        <Ispit>
+          <Naziv>Menadžment</Naziv>
+          <ESPB>6</ESPB>
+          <Godina>1</Godina>
+        </Ispit>
+        <Ocena>10</Ocena>
+        <DatumPolaganja>26.08.2024.</DatumPolaganja>
+      </PolozeniIspit>
+      <PolozeniIspit>
+        <Ispit>
+          <Naziv>Osnove informaciono komunikacionih tehnologija</Naziv>
+          <ESPB>5</ESPB>
+          <Godina>1</Godina>
+        </Ispit>
+        <Ocena>10</Ocena>
+        <DatumPolaganja>26.08.2024.</DatumPolaganja>
+      </PolozeniIspit>
+      <PolozeniIspit>
+        <Ispit>
+          <Naziv>Sociologija</Naziv>
+          <ESPB>4</ESPB>
+          <Godina>1</Godina>
+        </Ispit>
+        <Ocena>8</Ocena>
+        <DatumPolaganja>26.08.2024.</DatumPolaganja>
+      </PolozeniIspit>
+      <PolozeniIspit>
+        <Ispit>
+          <Naziv>Matematika 2</Naziv>
+          <ESPB>6</ESPB>
+          <Godina>1</Godina>
+        </Ispit>
+        <Ocena>6</Ocena>
+        <DatumPolaganja>26.08.2024.</DatumPolaganja>
+      </PolozeniIspit>
+      <PolozeniIspit>
+        <Ispit>
+          <Naziv>Uvod u informacionе sisteme</Naziv>
+          <ESPB>6</ESPB>
+          <Godina>1</Godina>
+        </Ispit>
+        <Ocena>9</Ocena>
+        <DatumPolaganja>26.08.2024.</DatumPolaganja>
+      </PolozeniIspit>
+      <PolozeniIspit>
+        <Ispit>
+          <Naziv>Psihologija</Naziv>
+          <ESPB>4</ESPB>
+          <Godina>1</Godina>
+        </Ispit>
+        <Ocena>10</Ocena>
+        <DatumPolaganja>26.08.2024.</DatumPolaganja>
+      </PolozeniIspit>
+      <PolozeniIspit>
+        <Ispit>
+          <Naziv>Osnovi organizacije</Naziv>
+          <ESPB>6</ESPB>
+          <Godina>1</Godina>
+        </Ispit>
+        <Ocena>9</Ocena>
+        <DatumPolaganja>26.08.2024.</DatumPolaganja>
+      </PolozeniIspit>
+      <PolozeniIspit>
+        <Ispit>
+          <Naziv>Ekonomija</Naziv>
+          <ESPB>6</ESPB>
+          <Godina>1</Godina>
+        </Ispit>
+        <Ocena>6</Ocena>
+        <DatumPolaganja>26.08.2024.</DatumPolaganja>
+      </PolozeniIspit>
+      <PolozeniIspit>
+        <Ispit>
+          <Naziv>Francuski jezik struke 1</Naziv>
+          <ESPB>5</ESPB>
+          <Godina>1</Godina>
+        </Ispit>
+        <Ocena>7</Ocena>
+        <DatumPolaganja>26.08.2024.</DatumPolaganja>
+      </PolozeniIspit>
+      <PolozeniIspit>
+        <Ispit>
+          <Naziv>Matematika 1</Naziv>
+          <ESPB>6</ESPB>
+          <Godina>1</Godina>
+        </Ispit>
+        <Ocena>7</Ocena>
+        <DatumPolaganja>26.08.2024.</DatumPolaganja>
+      </PolozeniIspit>
+      <PolozeniIspit>
+        <Ispit>
+          <Naziv>Statistika</Naziv>
+          <ESPB>6</ESPB>
+          <Godina>2</Godina>
+        </Ispit>
+        <Ocena>10</Ocena>
+        <DatumPolaganja>26.08.2024.</DatumPolaganja>
+      </PolozeniIspit>
+      <PolozeniIspit>
+        <Ispit>
+          <Naziv>Upravljanje kvalitetom</Naziv>
+          <ESPB>5</ESPB>
+          <Godina>2</Godina>
+        </Ispit>
+        <Ocena>9</Ocena>
+        <DatumPolaganja>26.08.2024.</DatumPolaganja>
+      </PolozeniIspit>
+      <PolozeniIspit>
+        <Ispit>
+          <Naziv>Finansijski menadžment i računovodstvo</Naziv>
+          <ESPB>6</ESPB>
+          <Godina>2</Godina>
+        </Ispit>
+        <Ocena>9</Ocena>
+        <DatumPolaganja>26.08.2024.</DatumPolaganja>
+      </PolozeniIspit>
+      <PolozeniIspit>
+        <Ispit>
+          <Naziv>Menadžment tehnologije i razvoja</Naziv>
+          <ESPB>6</ESPB>
+          <Godina>2</Godina>
+        </Ispit>
+        <Ocena>8</Ocena>
+        <DatumPolaganja>26.08.2024.</DatumPolaganja>
+      </PolozeniIspit>
+      <PolozeniIspit>
+        <Ispit>
+          <Naziv>Teorija verovatnoće</Naziv>
+          <ESPB>6</ESPB>
+          <Godina>2</Godina>
+        </Ispit>
+        <Ocena>7</Ocena>
+        <DatumPolaganja>26.08.2024.</DatumPolaganja>
+      </PolozeniIspit>
+      <PolozeniIspit>
+        <Ispit>
+          <Naziv>Menadžment ljudskih resursa</Naziv>
+          <ESPB>5</ESPB>
+          <Godina>2</Godina>
+        </Ispit>
+        <Ocena>9</Ocena>
+        <DatumPolaganja>26.08.2024.</DatumPolaganja>
+      </PolozeniIspit>
+      <PolozeniIspit>
+        <Ispit>
+          <Naziv>Marketing</Naziv>
+          <ESPB>5</ESPB>
+          <Godina>2</Godina>
+        </Ispit>
+        <Ocena>7</Ocena>
+        <DatumPolaganja>26.08.2024.</DatumPolaganja>
+      </PolozeniIspit>
+      <PolozeniIspit>
+        <Ispit>
+          <Naziv>Francuski jezik struke 2</Naziv>
+          <ESPB>3</ESPB>
+          <Godina>2</Godina>
+        </Ispit>
+        <Ocena>8</Ocena>
+        <DatumPolaganja>26.08.2024.</DatumPolaganja>
+      </PolozeniIspit>
+      <PolozeniIspit>
+        <Ispit>
+          <Naziv>Inženjering procesa</Naziv>
+          <ESPB>6</ESPB>
+          <Godina>2</Godina>
+        </Ispit>
+        <Ocena>6</Ocena>
+        <DatumPolaganja>26.08.2024.</DatumPolaganja>
+      </PolozeniIspit>
+      <PolozeniIspit>
+        <Ispit>
+          <Naziv>Engleski jezik struke 2</Naziv>
+          <ESPB>3</ESPB>
+          <Godina>2</Godina>
+        </Ispit>
+        <Ocena>6</Ocena>
+        <DatumPolaganja>26.08.2024.</DatumPolaganja>
+      </PolozeniIspit>
+      <PolozeniIspit>
+        <Ispit>
+          <Naziv>Osnove kvaliteta</Naziv>
+          <ESPB>6</ESPB>
+          <Godina>2</Godina>
+        </Ispit>
+        <Ocena>9</Ocena>
+        <DatumPolaganja>26.08.2024.</DatumPolaganja>
+      </PolozeniIspit>
+      <PolozeniIspit>
+        <Ispit>
+          <Naziv>Modelovanje poslovnih procesa</Naziv>
+          <ESPB>5</ESPB>
+          <Godina>3</Godina>
+        </Ispit>
+        <Ocena>8</Ocena>
+        <DatumPolaganja>26.08.2024.</DatumPolaganja>
+      </PolozeniIspit>
+      <PolozeniIspit>
+        <Ispit>
+          <Naziv>Elektronsko poslovanje</Naziv>
+          <ESPB>6</ESPB>
+          <Godina>3</Godina>
+        </Ispit>
+        <Ocena>10</Ocena>
+        <DatumPolaganja>26.08.2024.</DatumPolaganja>
+      </PolozeniIspit>
+      <PolozeniIspit>
+        <Ispit>
+          <Naziv>Programski jezici</Naziv>
+          <ESPB>5</ESPB>
+          <Godina>3</Godina>
+        </Ispit>
+        <Ocena>8</Ocena>
+        <DatumPolaganja>26.08.2024.</DatumPolaganja>
+      </PolozeniIspit>
+      <PolozeniIspit>
+        <Ispit>
+          <Naziv>Operaciona istraživanja 1</Naziv>
+          <ESPB>6</ESPB>
+          <Godina>3</Godina>
+        </Ispit>
+        <Ocena>6</Ocena>
+        <DatumPolaganja>26.08.2024.</DatumPolaganja>
+      </PolozeniIspit>
+      <PolozeniIspit>
+        <Ispit>
+          <Naziv>Teorija odlučivanja</Naziv>
+          <ESPB>5</ESPB>
+          <Godina>3</Godina>
+        </Ispit>
+        <Ocena>7</Ocena>
+        <DatumPolaganja>27.08.2024.</DatumPolaganja>
+      </PolozeniIspit>
+      <PolozeniIspit>
+        <Ispit>
+          <Naziv>Upravljanje projektima</Naziv>
+          <ESPB>5</ESPB>
+          <Godina>3</Godina>
+        </Ispit>
+        <Ocena>9</Ocena>
+        <DatumPolaganja>23.10.2024.</DatumPolaganja>
+      </PolozeniIspit>
+    </listaPolozenihIspita>
+    <ImeIPrezime>Nikola Jevtić</ImeIPrezime>
+    <ImeRoditelja>Slobodan Jevtić</ImeRoditelja>
+    <OpstinaRodjenja>Užice</OpstinaRodjenja>
+    <DatumRodjenja>10.8.1988.</DatumRodjenja>
+    <DrzavaRodjenja>Jugoslavija</DrzavaRodjenja>
+    <Jmbg>1008988790022</Jmbg>
+    <Drzavljanstvo>Srpsko</Drzavljanstvo>
+    <VrstaStudija>Master studije</VrstaStudija>
+    <Smer>Informacioni sistemi i tehnologije</Smer>
+    <BrojIndeksa>2004/2023</BrojIndeksa>
+    <DatumUpisa>26.08.2024.</DatumUpisa>
+    <GodinaStudija>4</GodinaStudija>
+  </Student>
+  <Student>
+    <listaOdabranihIspita />
+    <listaPolozenihIspita />
+    <ImeIPrezime>Aaa Aaa</ImeIPrezime>
+    <ImeRoditelja>Aaa Aaa</ImeRoditelja>
+    <OpstinaRodjenja>Ub</OpstinaRodjenja>
+    <DatumRodjenja>3.4.1998.</DatumRodjenja>
+    <DrzavaRodjenja>Afganistan</DrzavaRodjenja>
+    <Jmbg>1111111111111</Jmbg>
+    <Drzavljanstvo>Ubljanin</Drzavljanstvo>
+    <VrstaStudija>Osnovne akademske studije</VrstaStudija>
+    <Smer>Informacioni sistemi i tehnologije</Smer>
+    <BrojIndeksa>1998/1999</BrojIndeksa>
+    <DatumUpisa>26.08.2024.</DatumUpisa>
+    <GodinaStudija>1</GodinaStudija>
+  </Student>
+  <Student>
+    <listaOdabranihIspita>
+      <Ispit>
+        <Naziv>Sociologija</Naziv>
+        <ESPB>4</ESPB>
+        <Godina>1</Godina>
+      </Ispit>
+    </listaOdabranihIspita>
+    <listaPolozenihIspita />
+    <ImeIPrezime>Denis Pakao</ImeIPrezime>
+    <ImeRoditelja>Denisov Tata</ImeRoditelja>
+    <OpstinaRodjenja>Podgorica</OpstinaRodjenja>
+    <DatumRodjenja>5.5.1977.</DatumRodjenja>
+    <DrzavaRodjenja>Crna Gora</DrzavaRodjenja>
+    <Jmbg>1008988790022</Jmbg>
+    <Drzavljanstvo>Crnogorac</Drzavljanstvo>
+    <VrstaStudija>Master studije</VrstaStudija>
+    <Smer>Informacioni sistemi i tehnologije</Smer>
+    <BrojIndeksa>4444/2004</BrojIndeksa>
+    <DatumUpisa>26.08.2024.</DatumUpisa>
+    <GodinaStudija>2</GodinaStudija>
+  </Student>
+  <Student>
+    <listaOdabranihIspita />
+    <listaPolozenihIspita />
+    <ImeIPrezime>Nikola JEvtic</ImeIPrezime>
+    <ImeRoditelja>Ada Ada</ImeRoditelja>
+    <OpstinaRodjenja>Adad</OpstinaRodjenja>
+    <DatumRodjenja>24.3.1985.</DatumRodjenja>
+    <DrzavaRodjenja>Izrael</DrzavaRodjenja>
+    <Jmbg>1008988790022</Jmbg>
+    <Drzavljanstvo>Ada</Drzavljanstvo>
+    <VrstaStudija>Master studije</VrstaStudija>
+    <Smer>Informacioni sistemi i tehnologije</Smer>
+    <BrojIndeksa>2007/2007</BrojIndeksa>
+    <DatumUpisa>23.10.2024.</DatumUpisa>
+    <GodinaStudija>1</GodinaStudija>
+  </Student>
+</ArrayOfStudent>

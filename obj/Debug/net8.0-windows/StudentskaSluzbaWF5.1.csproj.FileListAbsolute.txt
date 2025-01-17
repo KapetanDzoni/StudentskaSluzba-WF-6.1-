@@ -1,0 +1,124 @@
+E:\Visual studio repository\StudentskaSluzbaWF5.1\bin\Debug\net8.0-windows\StudentskaSluzbaWF5.1.exe
+E:\Visual studio repository\StudentskaSluzbaWF5.1\bin\Debug\net8.0-windows\StudentskaSluzbaWF5.1.deps.json
+E:\Visual studio repository\StudentskaSluzbaWF5.1\bin\Debug\net8.0-windows\StudentskaSluzbaWF5.1.runtimeconfig.json
+E:\Visual studio repository\StudentskaSluzbaWF5.1\bin\Debug\net8.0-windows\StudentskaSluzbaWF5.1.dll
+E:\Visual studio repository\StudentskaSluzbaWF5.1\bin\Debug\net8.0-windows\StudentskaSluzbaWF5.1.pdb
+E:\Visual studio repository\StudentskaSluzbaWF5.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF.Form1.resources
+E:\Visual studio repository\StudentskaSluzbaWF5.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF5.1.csproj.GenerateResource.cache
+E:\Visual studio repository\StudentskaSluzbaWF5.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF5.1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual studio repository\StudentskaSluzbaWF5.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF5.1.AssemblyInfoInputs.cache
+E:\Visual studio repository\StudentskaSluzbaWF5.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF5.1.AssemblyInfo.cs
+E:\Visual studio repository\StudentskaSluzbaWF5.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF5.1.csproj.CoreCompileInputs.cache
+E:\Visual studio repository\StudentskaSluzbaWF5.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF5.1.dll
+E:\Visual studio repository\StudentskaSluzbaWF5.1\obj\Debug\net8.0-windows\refint\StudentskaSluzbaWF5.1.dll
+E:\Visual studio repository\StudentskaSluzbaWF5.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF5.1.pdb
+E:\Visual studio repository\StudentskaSluzbaWF5.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF5.1.genruntimeconfig.cache
+E:\Visual studio repository\StudentskaSluzbaWF5.1\obj\Debug\net8.0-windows\ref\StudentskaSluzbaWF5.1.dll
+E:\Visual studio repository\StudentskaSluzbaWF5.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF.Form3.resources
+E:\Visual studio repository\StudentskaSluzbaWF5.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF.FormaUpis.resources
+E:\Visual studio repository\StudentskaSluzbaWF5.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF6._1.FormaOdabirSmera.resources
+E:\Visual studio repository\StudentskaSluzbaWF5.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF6._1.FormaPrikazPodatkaStudenata.resources
+E:\Visual studio repository\StudentskaSluzbaWF5.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF6._1.FormaUnosIndeksa.resources
+E:\Visual studio repository\StudentskaSluzbaWF5.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF6._1.FRMDaLiZeliteJosNesto.resources
+E:\Visual studio repository\StudentskaSluzbaWF5.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF6._1.OdabirPredmetaZaSlusanje.resources
+E:\Visual studio repository\StudentskaSluzbaWF5.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF6._1.PolaganjeIspita.resources
+E:\Visual studio repository\StudentskaSluzbaWF5.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF6._1.Prikaz_svih_predmeta.resources
+E:\Visual studio repository\StudentskaSluzbaWF5.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF6._1.PrikazSvihPodatakaStudenta.resources
+E:\Visual studio repository\StudentskaSluzbaWF5.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF6._1.Promena_podataka_upsanog_studenta.resources
+E:\Visual studio repository\StudentskaSluzbaWF5.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF6._1.UnosOcene.resources
+E:\Visual studio repository\StudentskaSluzbaWF5.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF6._1.UpisUnosIndeksa.resources
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF5.1\bin\Debug\net8.0-windows\StudentskaSluzbaWF5.1.exe
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF5.1\bin\Debug\net8.0-windows\StudentskaSluzbaWF5.1.deps.json
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF5.1\bin\Debug\net8.0-windows\StudentskaSluzbaWF5.1.runtimeconfig.json
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF5.1\bin\Debug\net8.0-windows\StudentskaSluzbaWF5.1.dll
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF5.1\bin\Debug\net8.0-windows\StudentskaSluzbaWF5.1.pdb
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF5.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF.Form1.resources
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF5.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF.Form3.resources
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF5.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF6._1.FormaOdabirSmera.resources
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF5.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF6._1.FormaPrikazPodatkaStudenata.resources
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF5.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF6._1.FormaUnosIndeksa.resources
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF5.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF.FormaUpis.resources
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF5.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF6._1.FRMDaLiZeliteJosNesto.resources
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF5.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF6._1.OdabirPredmetaZaSlusanje.resources
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF5.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF6._1.PolaganjeIspita.resources
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF5.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF6._1.Prikaz_svih_predmeta.resources
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF5.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF6._1.PrikazSvihPodatakaStudenta.resources
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF5.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF6._1.Promena_podataka_upsanog_studenta.resources
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF5.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF6._1.UnosOcene.resources
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF5.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF6._1.UpisUnosIndeksa.resources
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF5.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF5.1.csproj.GenerateResource.cache
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF5.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF5.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF5.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF5.1.AssemblyInfoInputs.cache
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF5.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF5.1.AssemblyInfo.cs
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF5.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF5.1.csproj.CoreCompileInputs.cache
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF5.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF5.1.dll
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF5.1\obj\Debug\net8.0-windows\refint\StudentskaSluzbaWF5.1.dll
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF5.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF5.1.pdb
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF5.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF5.1.genruntimeconfig.cache
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF5.1\obj\Debug\net8.0-windows\ref\StudentskaSluzbaWF5.1.dll
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF5.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF5._1.UpisViseGodine.resources
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF5.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF5._1.OdabirViseGodineStudija.resources
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF6.1\bin\Debug\net8.0-windows\StudentskaSluzbaWF5.1.exe
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF6.1\bin\Debug\net8.0-windows\StudentskaSluzbaWF5.1.deps.json
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF6.1\bin\Debug\net8.0-windows\StudentskaSluzbaWF5.1.runtimeconfig.json
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF6.1\bin\Debug\net8.0-windows\StudentskaSluzbaWF5.1.dll
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF6.1\bin\Debug\net8.0-windows\StudentskaSluzbaWF5.1.pdb
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF.Form1.resources
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF.Form3.resources
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF6._1.FormaOdabirSmera.resources
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF6._1.FormaPrikazPodatkaStudenata.resources
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF6._1.FormaUnosIndeksa.resources
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF.FormaUpis.resources
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF6._1.FRMDaLiZeliteJosNesto.resources
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF6._1.OdabirPredmetaZaSlusanje.resources
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF5._1.OdabirViseGodineStudija.resources
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF6._1.PolaganjeIspita.resources
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF6._1.Prikaz_svih_predmeta.resources
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF6._1.PrikazSvihPodatakaStudenta.resources
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF6._1.Promena_podataka_upsanog_studenta.resources
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF6._1.UnosOcene.resources
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF6._1.UpisUnosIndeksa.resources
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF5._1.UpisViseGodine.resources
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF5.1.csproj.GenerateResource.cache
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF5.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF5.1.AssemblyInfoInputs.cache
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF5.1.AssemblyInfo.cs
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF5.1.csproj.CoreCompileInputs.cache
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF5.1.dll
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\refint\StudentskaSluzbaWF5.1.dll
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF5.1.pdb
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF5.1.genruntimeconfig.cache
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\ref\StudentskaSluzbaWF5.1.dll
+C:\Users\Odskocni\Desktop\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF5._1.PotvrdaPromenePodataka.resources
+C:\Users\Odskocni\Desktop\Moji projekti\StudentskaSluzbaWF6.1\bin\Debug\net8.0-windows\StudentskaSluzbaWF5.1.exe
+C:\Users\Odskocni\Desktop\Moji projekti\StudentskaSluzbaWF6.1\bin\Debug\net8.0-windows\StudentskaSluzbaWF5.1.deps.json
+C:\Users\Odskocni\Desktop\Moji projekti\StudentskaSluzbaWF6.1\bin\Debug\net8.0-windows\StudentskaSluzbaWF5.1.runtimeconfig.json
+C:\Users\Odskocni\Desktop\Moji projekti\StudentskaSluzbaWF6.1\bin\Debug\net8.0-windows\StudentskaSluzbaWF5.1.dll
+C:\Users\Odskocni\Desktop\Moji projekti\StudentskaSluzbaWF6.1\bin\Debug\net8.0-windows\StudentskaSluzbaWF5.1.pdb
+C:\Users\Odskocni\Desktop\Moji projekti\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF.Form1.resources
+C:\Users\Odskocni\Desktop\Moji projekti\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF.Form3.resources
+C:\Users\Odskocni\Desktop\Moji projekti\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF6._1.FormaOdabirSmera.resources
+C:\Users\Odskocni\Desktop\Moji projekti\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF6._1.FormaPrikazPodatkaStudenata.resources
+C:\Users\Odskocni\Desktop\Moji projekti\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF6._1.FormaUnosIndeksa.resources
+C:\Users\Odskocni\Desktop\Moji projekti\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF.FormaUpis.resources
+C:\Users\Odskocni\Desktop\Moji projekti\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF6._1.FRMDaLiZeliteJosNesto.resources
+C:\Users\Odskocni\Desktop\Moji projekti\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF6._1.OdabirPredmetaZaSlusanje.resources
+C:\Users\Odskocni\Desktop\Moji projekti\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF5._1.OdabirViseGodineStudija.resources
+C:\Users\Odskocni\Desktop\Moji projekti\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF6._1.PolaganjeIspita.resources
+C:\Users\Odskocni\Desktop\Moji projekti\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF5._1.PotvrdaPromenePodataka.resources
+C:\Users\Odskocni\Desktop\Moji projekti\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF6._1.Prikaz_svih_predmeta.resources
+C:\Users\Odskocni\Desktop\Moji projekti\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF6._1.PrikazSvihPodatakaStudenta.resources
+C:\Users\Odskocni\Desktop\Moji projekti\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF6._1.Promena_podataka_upsanog_studenta.resources
+C:\Users\Odskocni\Desktop\Moji projekti\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF6._1.UnosOcene.resources
+C:\Users\Odskocni\Desktop\Moji projekti\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF6._1.UpisUnosIndeksa.resources
+C:\Users\Odskocni\Desktop\Moji projekti\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF5._1.UpisViseGodine.resources
+C:\Users\Odskocni\Desktop\Moji projekti\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF5.1.csproj.GenerateResource.cache
+C:\Users\Odskocni\Desktop\Moji projekti\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF5.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Odskocni\Desktop\Moji projekti\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF5.1.AssemblyInfoInputs.cache
+C:\Users\Odskocni\Desktop\Moji projekti\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF5.1.AssemblyInfo.cs
+C:\Users\Odskocni\Desktop\Moji projekti\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF5.1.csproj.CoreCompileInputs.cache
+C:\Users\Odskocni\Desktop\Moji projekti\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF5.1.dll
+C:\Users\Odskocni\Desktop\Moji projekti\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\refint\StudentskaSluzbaWF5.1.dll
+C:\Users\Odskocni\Desktop\Moji projekti\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF5.1.pdb
+C:\Users\Odskocni\Desktop\Moji projekti\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\StudentskaSluzbaWF5.1.genruntimeconfig.cache
+C:\Users\Odskocni\Desktop\Moji projekti\StudentskaSluzbaWF6.1\obj\Debug\net8.0-windows\ref\StudentskaSluzbaWF5.1.dll

@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfIspit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+   
+    <Ispit>
+        <Naziv>Matematika 1</Naziv>
+        <ESPB>6</ESPB>
+        <Godina>1</Godina>
+    </Ispit>
+    <Ispit>
+        <Naziv>Ekonomija</Naziv>
+        <ESPB>6</ESPB>
+        <Godina>1</Godina>
+    </Ispit>
+    <Ispit>
+        <Naziv>Menadžment</Naziv>
+        <ESPB>6</ESPB>
+        <Godina>1</Godina>
+    </Ispit>
+    <Ispit>
+        <Naziv>Osnove informaciono komunikacionih tehnologija</Naziv>
+        <ESPB>5</ESPB>
+        <Godina>1</Godina>
+    </Ispit>
+    <Ispit>
+        <Naziv>Sociologija</Naziv>
+        <ESPB>4</ESPB>
+        <Godina>1</Godina>
+    </Ispit>
+    <Ispit>
+        <Naziv>Psihologija</Naziv>
+        <ESPB>4</ESPB>
+        <Godina>1</Godina>
+    </Ispit>
+    <Ispit>
+        <Naziv>Engleski jezik struke 1</Naziv>
+        <ESPB>5</ESPB>
+        <Godina>1</Godina>
+    </Ispit>
+    <Ispit>
+        <Naziv>Francuski jezik struke 1</Naziv>
+        <ESPB>5</ESPB>
+        <Godina>1</Godina>
+    </Ispit>
+    <Ispit>
+        <Naziv>Matematika 2</Naziv>
+        <ESPB>6</ESPB>
+        <Godina>1</Godina>
+    </Ispit>
+    <Ispit>
+        <Naziv>Osnovi organizacije</Naziv>
+        <ESPB>6</ESPB>
+        <Godina>1</Godina>
+    </Ispit>
+    <Ispit>
+        <Naziv>Proizvodni sistemi</Naziv>
+        <ESPB>6</ESPB>
+        <Godina>1</Godina>
+    </Ispit>
+    <Ispit>
+        <Naziv>Uvod u informacione sisteme</Naziv>
+        <ESPB>6</ESPB>
+        <Godina>1</Godina>
+    </Ispit>
+    
+    <!-- Predmeti za drugu godinu -->
+    <Ispit>
+        <Naziv>Menadžment ljudskih resursa</Naziv>
+        <ESPB>5</ESPB>
+        <Godina>2</Godina>
+    </Ispit>
+    <Ispit>
+        <Naziv>Ekonomika poslovanja i planiranje</Naziv>
+        <ESPB>6</ESPB>
+        <Godina>2</Godina>
+    </Ispit>
+    <Ispit>
+        <Naziv>Računovodstvo</Naziv>
+        <ESPB>6</ESPB>
+        <Godina>2</Godina>
+    </Ispit>
+    <Ispit>
+        <Naziv>Marketing</Naziv>
+        <ESPB>5</ESPB>
+        <Godina>2</Godina>
+    </Ispit>
+    <Ispit>
+        <Naziv>Teorija verovatnoće</Naziv>
+        <ESPB>6</ESPB>
+        <Godina>2</Godina>
+    </Ispit>
+    <Ispit>
+        <Naziv>Engleski jezik struke 2</Naziv>
+        <ESPB>3</ESPB>
+        <Godina>2</Godina>
+    </Ispit>
+    <Ispit>
+        <Naziv>Francuski jezik struke 2</Naziv>
+        <ESPB>3</ESPB>
+        <Godina>2</Godina>
+    </Ispit>
+    <Ispit>
+        <Naziv>Osnove finansijskog menadžmenta</Naziv>
+        <ESPB>6</ESPB>
+        <Godina>2</Godina>
+    </Ispit>
+    <Ispit>
+        <Naziv>Statistika</Naziv>
+        <ESPB>6</ESPB>
+        <Godina>2</Godina>
+    </Ispit>
+    <Ispit>
+        <Naziv>Menadžment tehnologije i razvoja</Naziv>
+        <ESPB>6</ESPB>
+        <Godina>2</Godina>
+    </Ispit>
+    <Ispit>
+        <Naziv>Upravljanje troškovima</Naziv>
+        <ESPB>6</ESPB>
+        <Godina>2</Godina>
+    </Ispit>
+    <Ispit>
+        <Naziv>Osnove kvaliteta</Naziv>
+        <ESPB>5</ESPB>
+        <Godina>2</Godina>
+    </Ispit>
+    
+    <!-- Predmeti za treću godinu -->
+    <Ispit>
+        <Naziv>Upravljanje projektima</Naziv>
+        <ESPB>6</ESPB>
+        <Godina>3</Godina>
+    </Ispit>
+    <Ispit>
+        <Naziv>Operaciona istraživanja 1</Naziv>
+        <ESPB>6</ESPB>
+        <Godina>3</Godina>
+    </Ispit>
+    <Ispit>
+        <Naziv>Upravljačko računovodstvo</Naziv>
+        <ESPB>6</ESPB>
+        <Godina>3</Godina>
+    </Ispit>
+    <Ispit>
+        <Naziv>Poslovno pravo</Naziv>
+        <ESPB>5</ESPB>
+        <Godina>3</Godina>
+    </Ispit>
+    <Ispit>
+        <Naziv>Elektronsko poslovanje</Naziv>
+        <ESPB>6</ESPB>
+        <Godina>3</Godina>
+    </Ispit>
+    <Ispit>
+        <Naziv>Poslovni informacioni sistemi</Naziv>
+        <ESPB>6</ESPB>
+        <Godina>3</Godina>
+    </Ispit>
+    <Ispit>
+        <Naziv>Teorija odlučivanja</Naziv>
+        <ESPB>5</ESPB>
+        <Godina>3</Godina>
+    </Ispit>
+    <Ispit>
+        <Naziv>Simulacija u poslovnom odlučivanju</Naziv>
+        <ESPB>5</ESPB>
+        <Godina>3</Godina>
+    </Ispit>
+    <Ispit>
+        <Naziv>Upravljanje investicijama</Naziv>
+        <ESPB>5</ESPB>
+        <Godina>3</Godina>
+    </Ispit>
+    <Ispit>
+        <Naziv>Odnosi s javnošću</Naziv>
+        <ESPB>5</ESPB>
+        <Godina>3</Godina>
+    </Ispit>
+    <Ispit>
+        <Naziv>Operaciona istraživanja 2</Naziv>
+        <ESPB>6</ESPB>
+        <Godina>3</Godina>
+    </Ispit>
+    <Ispit>
+        <Naziv>Ekonometrijske metode</Naziv>
+        <ESPB>6</ESPB>
+        <Godina>3</Godina>
+    </Ispit>
+    <Ispit>
+        <Naziv>Ekološki menadžment</Naziv>
+        <ESPB>5</ESPB>
+        <Godina>3</Godina>
+    </Ispit>
+    <Ispit>
+        <Naziv>Upravljanje promenama</Naziv>
+        <ESPB>5</ESPB>
+        <Godina>3</Godina>
+    </Ispit>
+    
+    <!-- Predmeti za četvrtu godinu -->
+    <Ispit>
+        <Naziv>Strateški marketing</Naziv>
+        <ESPB>5</ESPB>
+        <Godina>4</Godina>
+    </Ispit>
+    <Ispit>
+        <Naziv>Uvod u finansijska tržišta</Naziv>
+        <ESPB>6</ESPB>
+        <Godina>4</Godina>
+    </Ispit>
+    <Ispit>
+        <Naziv>Poslovna inteligencija</Naziv>
+        <ESPB>6</ESPB>
+        <Godina>4</Godina>
+    </Ispit>
+    <Ispit>
+        <Naziv>Internacionalni menadžment</Naziv>
+        <ESPB>6</ESPB>
+        <Godina>4</Godina>
+    </Ispit>
+    <Ispit>
+        <Naziv>Upravljanje preduzetničkim projektima</Naziv>
+        <ESPB>5</ESPB>
+        <Godina>4</Godina>
+    </Ispit>
+    <Ispit>
+        <Naziv>Digitalni marketing</Naziv>
+        <ESPB>4</ESPB>
+        <Godina>4</Godina>
+    </Ispit>
+    <Ispit>
+        <Naziv>Obuka za preduzetništvo</Naziv>
+        <ESPB>4</ESPB>
+        <Godina>4</Godina>
+    </Ispit>
+    
+    <!-- Izborni predmeti -->
+    <Ispit>
+        <Naziv>Obuka za preduzetništvo</Naziv>
+        <ESPB>4</ESPB>
+        <Godina>4</Godina>
+    </Ispit>
+    <Ispit>
+        <Naziv>Digitalni marketing</Naziv>
+        <ESPB>4</ESPB>
+        <Godina>4</Godina>
+    </Ispit>
+
+</ArrayOfIspit>
